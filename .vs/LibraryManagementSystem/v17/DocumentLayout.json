@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\librarystaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\librarystaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\libraryutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\libraryutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\printedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\printedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\ilibraryactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF2EDB8-216F-405B-88A9-4EDF4D382EE2}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\ilibraryactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\User.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\User.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwC4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:21:54.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAction.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\UserAction.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\UserAction.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\UserAction.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\UserAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:49:00.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrintedBook.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\PrintedBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\PrintedBook.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\PrintedBook.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\PrintedBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:35:50.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EBook.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\EBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\EBook.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\EBook.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\EBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:35:33.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryUtilities.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryUtilities.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryUtilities.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\LibraryUtilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:25:25.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryStaff.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryStaff.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryStaff.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryStaff.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\LibraryStaff.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:24:59.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILibraryActions.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\ILibraryActions.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ILibraryActions.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\ILibraryActions.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\ILibraryActions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:24:32.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Book.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:21:37.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:13:31.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
